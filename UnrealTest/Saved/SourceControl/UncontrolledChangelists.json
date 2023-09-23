@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/Framework/BP_Gamemode.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/BP_FP_Character.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MS/YLR0O2TZ1YF8R8HLX81F05.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/BP_FP_Character.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IMC_Default.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IA_Jump.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IA_Look.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IA_Move.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IMC_DefaultTest.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IA_MoveTest.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IA_LookTest.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Player/InputActions/IA_JumpTest.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/15/Z21X533T28GYNYBZ7VK3SW.uasset",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/BluePrints/Map.umap",
+				"C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Content/FirstPerson/Maps/FirstPersonMap.umap"
 			]
 		}
 	]
