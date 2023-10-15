@@ -1,0 +1,6 @@
+2023/10/07-22:32:37.759 105d0 Creating DB C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/10/07-22:32:37.835 105d0 Reusing MANIFEST C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-22:32:44.050 e728 Level-0 table #5: started
+2023/10/07-22:32:44.059 e728 Level-0 table #5: 1167 bytes OK
+2023/10/07-22:32:44.061 e728 Delete type=0 #3
+2023/10/07-22:32:44.062 e728 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
