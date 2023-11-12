@@ -1,3 +1,2 @@
-2023/10/22-22:41:19.223 71fc Reusing MANIFEST C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/22-22:41:19.226 71fc Recovering log #3
-2023/10/22-22:41:19.227 71fc Reusing old log C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/10/29-15:13:29.469 5664 Creating DB C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/10/29-15:13:29.486 5664 Reusing MANIFEST C:/Users/Ethan Miguel/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001

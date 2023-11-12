@@ -1,18 +1,0 @@
-[1022/211741.078:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[1022/211748.413:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[1022/211748.413:ERROR:backend_impl.cc(1041)] Critical error found -8
-[1022/211748.424:WARNING:storage_block-inl.h(146)] Failed data load.
-[1022/211748.424:ERROR:entry_impl.cc(1075)] No file for c10307f6
-[1022/211748.494:WARNING:storage_block-inl.h(146)] Failed data load.
-[1022/211748.993:WARNING:storage_block-inl.h(146)] Failed data load.
-[1022/211748.996:WARNING:storage_block-inl.h(146)] Failed data load.
-[1022/211748.998:WARNING:storage_block-inl.h(146)] Failed data load.
-[1022/211748.999:WARNING:storage_block-inl.h(146)] Failed data load.
-[1022/211749.001:ERROR:entry_impl.cc(998)] Failed to save user data
-[1022/211749.002:ERROR:entry_impl.cc(998)] Failed to save user data
-[1022/211755.128:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1022/211941.875:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1022/213545.248:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1022/213545.255:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1022/213546.395:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1022/213546.403:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/iggia/OneDrive/Documents/GitHub/UnrealTesting/UnrealTest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
