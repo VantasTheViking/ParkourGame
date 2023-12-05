@@ -1,5 +1,5 @@
 # ParkourGame
-Controls: <br />
-WASD: Move <br />
-Space: Jump/Double Jump <br />
+Controls:\
+WASD: Move\
+Space: Jump/Double Jump\
 L Alt: Air Dash
